@@ -1,0 +1,17 @@
+.success, .error {
+    color: #fff;
+    padding: 5px;
+    margin: 5px 0px 15px 0px;
+}
+
+.success {
+    background: green;
+}
+
+.error {
+    background: red;
+}
+
+.submit-button {
+    text-align: center;
+}
